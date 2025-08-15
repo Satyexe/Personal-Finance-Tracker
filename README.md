@@ -1,8 +1,8 @@
-💰 # Expense Tracker Dashboard (Python + Dash)
+💰 Expense Tracker Dashboard (Python + Dash)
 
 A data-driven personal finance dashboard built using Python, Dash, Plotly, and Bootstrap, designed to track and analyze daily expenses with interactive visualizations and mathematical insights.
 
-✨ # Features
+✨ Features
 
 📊 Real-Time Data Analysis – Automatically updates metrics when adding or importing transactions.
 
@@ -18,7 +18,7 @@ A data-driven personal finance dashboard built using Python, Dash, Plotly, and B
 
 💾 Persistent Storage – Keeps your transaction history saved between sessions.
 
-#🛠️ Tech Stack#
+🛠️ Tech Stack#
 
 Frontend: Dash, Plotly, Bootstrap Components
 
@@ -28,7 +28,7 @@ Storage: JSON (or can be extended to SQL)
 
 Deployment: Compatible with Heroku, Vercel, or local hosting
 
-📌 # Mathematical Insights
+📌 Mathematical Insights
 
 Daily/Monthly Average Spend
 
@@ -44,7 +44,7 @@ Category Dominance %
 
 🚀 How to Run
 # Clone repository
-git clone https://github.com/Satyexe/expense-tracker-dashboard.git
+git clone [https://github.com/Satyexe/Personal-Finance-Tracker.git]
 cd expense-tracker-dashboard
 
 # Install dependencies
