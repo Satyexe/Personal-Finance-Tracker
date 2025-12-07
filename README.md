@@ -15,14 +15,11 @@ This web application helps users manage and analyze their income and expenses wi
 ## 🖥️ Screenshots
 
 ### 📍 Dashboard Overview
-![Dashboard Screenshot](<img width="1919" height="928" alt="image" src="https://github.com/user-attachments/assets/2efff5a7-acb7-49f0-9f79-7de3703d11fd" />
-)
+![Dashboard Screenshot]<img width="1919" height="928" alt="image" src="https://github.com/user-attachments/assets/2efff5a7-acb7-49f0-9f79-7de3703d11fd" />
+
 
 ### 📍 Add Transaction Form
-![Transaction Form](<img width="1919" height="928" alt="image" src="https://github.com/user-attachments/assets/f850f3b8-5f0f-4301-a737-6022aacc852d" />
-)
-
-> You can upload your screenshots later inside a `screenshots/` folder and they will display automatically.
+![Transaction Form]<img width="1919" height="928" alt="image" src="https://github.com/user-attachments/assets/f850f3b8-5f0f-4301-a737-6022aacc852d" />
 
 ---
 
