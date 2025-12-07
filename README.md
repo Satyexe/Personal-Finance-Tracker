@@ -1,57 +1,71 @@
-💰 Expense Tracker Dashboard (Python + Dash)
+# 💸 Personal Finance Tracker
 
-A data-driven personal finance dashboard built using Python, Dash, Plotly, and Bootstrap, designed to track and analyze daily expenses with interactive visualizations and mathematical insights.
+A user-friendly and interactive **Personal Finance Tracker Dashboard** built using **Python, Dash, Plotly, and Bootstrap**.  
+This web application helps users manage and analyze their income and expenses with beautiful data visualizations and real-time updates.
 
-✨ Features
+---
 
-📊 Real-Time Data Analysis – Automatically updates metrics when adding or importing transactions.
+## 🚀 Live Demo (Deployment Link)
 
-🧮 15+ Financial KPIs – Includes savings rate %, budget variance %, daily spend standard deviation, and expense-to-income ratio.
-
-📈 Interactive Charts & Filters – Category-wise breakdowns, monthly trends, and top spending days.
-
-📂 Data Import & Export – Upload CSV expense data or export dashboard data with one click.
-
-🔍 Advanced Search & Sorting – Quickly find transactions by category, amount, or date.
-
-🎯 Budget Tracking – Compare actual spending against set budgets per category.
-
-💾 Persistent Storage – Keeps your transaction history saved between sessions.
-
-🛠️ Tech Stack#
-
-Frontend: Dash, Plotly, Bootstrap Components
-
-Backend: Python, Pandas
-
-Storage: JSON (or can be extended to SQL)
-
-Deployment: Compatible with Heroku, Vercel, or local hosting
-
-📌 Mathematical Insights
-
-Daily/Monthly Average Spend
-
-Standard Deviation of Spending Patterns
-
-Expense Growth & Income Growth Rates
-
-Expense-to-Income Ratio
-
-Max Consecutive No-Spend Days
-
-Category Dominance %
-
-🚀 How to Run
-# Clone repository
-git clone [https://github.com/Satyexe/Personal-Finance-Tracker.git]
-cd expense-tracker-dashboard
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the app
-python app.py
+🔗 **Deployed on Render:**  
 
 
-Open http://127.0.0.1:8050/ in your browser.
+---
+
+## 🖥️ Screenshots
+
+### 📍 Dashboard Overview
+![Dashboard Screenshot](<img width="1919" height="928" alt="image" src="https://github.com/user-attachments/assets/2efff5a7-acb7-49f0-9f79-7de3703d11fd" />
+)
+
+### 📍 Add Transaction Form
+![Transaction Form](<img width="1919" height="928" alt="image" src="https://github.com/user-attachments/assets/f850f3b8-5f0f-4301-a737-6022aacc852d" />
+)
+
+> You can upload your screenshots later inside a `screenshots/` folder and they will display automatically.
+
+---
+
+## 🧾 Features
+
+✔️ Add, view, and manage daily transactions  
+✔️ Categorize income & expenses  
+✔️ Interactive charts using Plotly  
+✔️ Real-time Dashboard updates  
+✔️ Stores data in local `transactions.json` file  
+✔️ Responsive UI built with Dash Bootstrap Components
+
+---
+
+## 📂 Project Structure
+
+Personal-Finance-Tracker/
+│── assets/ # CSS & static assets
+│── transactions.json # Stored records
+│── main.py # Dash App entry point
+│── requirements.txt # Python dependencies
+│── Procfile # For deployment (Render / Heroku)
+│── README.md # Documentation
+
+
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|--------|
+| Python | Backend logic |
+| Dash | Web framework |
+| Plotly | Graph visualization |
+| Bootstrap | UI styling |
+| Pandas | Data processing |
+
+---
+
+## 📡 Installation & Setup
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Satyexe/Personal-Finance-Tracker.git
+cd Personal-Finance-Tracker
